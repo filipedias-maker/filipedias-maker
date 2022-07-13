@@ -1,4 +1,6 @@
-### Olá, Eu sou o Filipe Dias 👋
+### Olá, eu sou o Filipe Dias 👋
+
+Estudante de desenvolvimento web full stack.
 
 
 <div align="center">
